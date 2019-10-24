@@ -7,7 +7,7 @@ export default class Footer extends Component {
             <div>
                 <footer class="page-footer font-small blue">
 
-                    <div class="footer-copyright text-center py-3">© 2019 Copyright</div>
+                    <div class="footer-copyright text-center py-3">© 2019 Copyright Pokédex</div>
 
                 </footer>
             </div>
