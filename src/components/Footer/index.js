@@ -5,9 +5,9 @@ export default class Footer extends Component {
     render(){
         return(
             <div>
-                <footer class="page-footer font-small blue">
+                <footer className="page-footer font-small blue">
 
-                    <div class="footer-copyright text-center py-3">© 2019 Copyright Pokédex</div>
+                    <div className="footer-copyright text-center py-3">© 2019 Copyright Pokédex</div>
 
                 </footer>
             </div>

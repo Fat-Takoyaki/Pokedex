@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import FirstGen from "../../components/FirstGen";
+import Modal from "../../components/Modal";
 
 export default class Dashboard extends Component {
     render(){
@@ -7,6 +7,7 @@ export default class Dashboard extends Component {
             <div className="row">
                 <div className="col">
                     Landing Page Working Progress...
+                    <Modal/>
                 </div>
             </div>
         )

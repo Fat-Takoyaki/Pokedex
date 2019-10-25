@@ -4,7 +4,7 @@ import PokemonCard from "../PokemonCard";
 
 export default class FifthGen extends Component {
     state = {
-        url: "https://pokeapi.co/api/v2/pokemon/?offset=494;limit=156",
+        url: "https://pokeapi.co/api/v2/pokemon/?offset=494;limit=155",
         pokemon: null
     }
 
